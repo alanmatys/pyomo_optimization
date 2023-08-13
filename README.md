@@ -1,2 +1,2 @@
 # pyomo_optimization
- This repo is to explore Pyomo Implementation of Optimizatin
+ This repo is to explore Pyomo Implementation of Optimization
