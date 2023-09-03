@@ -1,0 +1,11 @@
+"Model status: ",8.00
+"Solver status: ",1.00
+"Objective = total profit from manufacturing cars: ",6000000.00
+"Number of cars manufactured: "
+"compact",0.00
+"midsize",2000.00
+"large",0.00
+"Are cars manufactured? (1: yes, 0: no): "
+"compact",0.00
+"midsize",1.00
+"large",0.00

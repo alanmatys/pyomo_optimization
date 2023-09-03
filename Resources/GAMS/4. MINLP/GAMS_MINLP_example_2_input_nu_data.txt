@@ -1,0 +1,2 @@
+nu('cheese1','cheese2') = 0.06;
+nu('cheese2','cheese1') = 0.3;

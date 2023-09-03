@@ -1,0 +1,8 @@
+
+Total profit from manufacturing = 6000000
+Number of cars of type compact manufactured = 0
+Number of cars of type midsize manufactured = 2000
+Number of cars of type large manufactured = 0
+Are cars of type compact manufactured? (1:Yes, 0:No) = 0
+Are cars of type midsize manufactured? (1:Yes, 0:No) = 1
+Are cars of type large manufactured? (1:Yes, 0:No) = 0

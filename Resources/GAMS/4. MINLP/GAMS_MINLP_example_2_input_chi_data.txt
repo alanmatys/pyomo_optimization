@@ -1,0 +1,4 @@
+chi('milk') = 400;
+chi('butter') = 4000;
+chi('cheese1') = 3250;
+chi('cheese2') = 2500;

@@ -1,0 +1,9 @@
+{	"alpha":{"milk":2.6,"butter":80,"cheese1":30.6,"cheese2":24.5},
+	"beta":{"milk":8.6,"butter":2,"cheese1":29.7,"cheese2":37.1},
+	"mu":{"milk":2055,"butter":54,"cheese1":63,"cheese2":17},
+	"chi":{"milk":400,"butter":4000,"cheese1":3250,"cheese2":2500},
+	"epsilon":{"milk":0.3,"butter":1.5,"cheese1":0.7,"cheese2":0.4},
+	"rho":{"milk":6.4,"butter":1.6,"cheese1":1.6,"cheese2":0.4},
+	"nu":[{"index":["cheese1","cheese2"],"value":0.06},
+	          {"index":["cheese2","cheese1"],"value":0.30}
+]}

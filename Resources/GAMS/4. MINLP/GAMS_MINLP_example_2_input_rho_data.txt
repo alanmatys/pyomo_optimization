@@ -1,0 +1,4 @@
+rho('milk') = 6.4;
+rho('butter') = 1.6;
+rho('cheese1') = 1.6;
+rho('cheese2') = 0.4;

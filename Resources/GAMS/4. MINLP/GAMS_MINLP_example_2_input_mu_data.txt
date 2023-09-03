@@ -1,0 +1,4 @@
+mu('milk') = 2055;
+mu('butter') = 54;
+mu('cheese1') = 63;
+mu('cheese2') = 17;

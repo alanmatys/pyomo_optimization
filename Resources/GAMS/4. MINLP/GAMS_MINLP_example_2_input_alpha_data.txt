@@ -1,0 +1,4 @@
+alpha('milk') = 2.6;
+alpha('butter') = 80;
+alpha('cheese1') = 30.6;
+alpha('cheese2') = 24.5;

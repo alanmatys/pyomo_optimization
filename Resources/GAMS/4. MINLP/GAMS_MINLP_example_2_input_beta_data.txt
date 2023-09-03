@@ -1,0 +1,4 @@
+beta('milk') = 8.6;
+beta('butter') = 2;
+beta('cheese1') = 29.7;
+beta('cheese2') = 37.1;

@@ -1,0 +1,4 @@
+epsilon('milk') = 0.3;
+epsilon('butter') = 1.5;
+epsilon('cheese1') = 0.7;
+epsilon('cheese2') = 0.4;

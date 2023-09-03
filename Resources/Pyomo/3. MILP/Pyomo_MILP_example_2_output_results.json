@@ -1,0 +1,115 @@
+{
+    "Problem": [
+        {
+            "Lower bound": -Infinity,
+            "Number of constraints": 55,
+            "Number of objectives": 1,
+            "Number of variables": 45,
+            "Sense": "unknown",
+            "Upper bound": Infinity
+        }
+    ],
+    "Solution": [
+        {
+            "number of solutions": 1,
+            "number of solutions displayed": 1
+        },
+        {
+            "Constraint": "No values",
+            "Gap": null,
+            "Message": "CPLEX 20.1.0.0\\x3a optimal integer solution; objective 988539.9999999999; 31 MIP simplex iterations; 0 branch-and-bound nodes",
+            "Objective": {
+                "obj": {
+                    "Value": 988539.9999999999
+                }
+            },
+            "Problem": {},
+            "Status": "optimal",
+            "Variable": {
+                "n[G1,12am-6am]": {
+                    "Value": 12.0
+                },
+                "n[G1,3pm-6pm]": {
+                    "Value": 12.0
+                },
+                "n[G1,6am-9am]": {
+                    "Value": 12.0
+                },
+                "n[G1,6pm-12am]": {
+                    "Value": 12.0
+                },
+                "n[G1,9am-3pm]": {
+                    "Value": 12.0
+                },
+                "n[G2,12am-6am]": {
+                    "Value": 3.0
+                },
+                "n[G2,3pm-6pm]": {
+                    "Value": 9.0
+                },
+                "n[G2,6am-9am]": {
+                    "Value": 8.0
+                },
+                "n[G2,6pm-12am]": {
+                    "Value": 9.0
+                },
+                "n[G2,9am-3pm]": {
+                    "Value": 8.0
+                },
+                "n[G3,3pm-6pm]": {
+                    "Value": 2.0
+                },
+                "s[G2,3pm-6pm]": {
+                    "Value": 1.0
+                },
+                "s[G2,6am-9am]": {
+                    "Value": 5.0
+                },
+                "s[G3,3pm-6pm]": {
+                    "Value": 2.0
+                },
+                "x[G1,12am-6am]": {
+                    "Value": 10200.0
+                },
+                "x[G1,3pm-6pm]": {
+                    "Value": 21249.99999999998
+                },
+                "x[G1,6am-9am]": {
+                    "Value": 15999.999999999996
+                },
+                "x[G1,6pm-12am]": {
+                    "Value": 11249.999999999982
+                },
+                "x[G1,9am-3pm]": {
+                    "Value": 10999.999999999996
+                },
+                "x[G2,12am-6am]": {
+                    "Value": 4800.0
+                },
+                "x[G2,3pm-6pm]": {
+                    "Value": 15750.000000000018
+                },
+                "x[G2,6am-9am]": {
+                    "Value": 14000.000000000004
+                },
+                "x[G2,6pm-12am]": {
+                    "Value": 15750.000000000018
+                },
+                "x[G2,9am-3pm]": {
+                    "Value": 14000.000000000004
+                },
+                "x[G3,3pm-6pm]": {
+                    "Value": 3000.0
+                }
+            }
+        }
+    ],
+    "Solver": [
+        {
+            "Id": 2,
+            "Message": "CPLEX 20.1.0.0\\x3a optimal integer solution; objective 988539.9999999999; 31 MIP simplex iterations; 0 branch-and-bound nodes",
+            "Status": "ok",
+            "Termination condition": "optimal"
+        }
+    ]
+}
